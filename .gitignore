@@ -1,0 +1,3 @@
+.env
+node_modules
+pg_tsc_caps.csv
